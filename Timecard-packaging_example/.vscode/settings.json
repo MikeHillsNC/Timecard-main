@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "bdist",
+        "chk",
+        "cmdclass",
+        "datefmt",
+        "lbl",
+        "number",
+        "pomodoro",
+        "pyinstaller",
+        "qlcd",
+        "sdist",
+        "timecardrc",
+        "wheel"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "restructuredtext.languageServer.disabled": true
+}
